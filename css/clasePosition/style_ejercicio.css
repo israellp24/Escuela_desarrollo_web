@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.text-general{
+    margin: 0 auto;
+    position: relative;
+    top: 25rem;
+    background-color: gray;
+    border-radius: 2rem;
+    min-width: 30rem;
+    max-width: 40rem;
+    min-height: 20rem;
+}
+
+.text-general p{
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+    top: 2rem;
+    font-size: 1.5rem;
+    color: aliceblue;
+}
+
+.text-center{
+    margin: 0 auto;
+    position: relative;
+    bottom: 2.5rem;
+    background-color: red;
+    border-radius: 1rem;
+    width: 15rem;
+    height: 5rem;
+}
+
+.text-center p{
+    width: 60%;
+    top: 2rem;
+    font-size: 1.2rem;
+    margin:  auto;
+    position: relative;
+}
